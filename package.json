@@ -1,0 +1,28 @@
+{
+  "name": "careerex-js-assigment-7",
+  "version": "1.0.0",
+  "description": "ASSIGNMENT: Node.js Express API Assignment with Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutatachief/careerEx-JS-Assigment-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kutatachief/careerEx-JS-Assigment-7/issues"
+  },
+  "homepage": "https://github.com/kutatachief/careerEx-JS-Assigment-7#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
